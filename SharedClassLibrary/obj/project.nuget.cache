@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K2fNIbae4ok1+Nz3AE9ncr3S4mHBSkTozLn8A5RH8qTbwfVAQ6qZgGeUuo7gCdjC7RHMxeFok+T5Q0gruIgfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samum\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samum\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
