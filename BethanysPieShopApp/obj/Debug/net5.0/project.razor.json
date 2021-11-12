@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BlazorTest.csproj",
+  "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\BlazorTest.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -41,9 +41,42 @@
         }
       },
       {
-        "HashCode": 1059497048,
+        "HashCode": -1776040928,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.SurveyPrompt",
+        "Name": "BlazorTest.Pages.Index",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1868748747,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Pages.Index",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorTest.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 361704993,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Shared.SurveyPrompt",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -63,18 +96,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazorTest.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": -252287020,
+        "HashCode": 2022743723,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.SurveyPrompt",
+        "Name": "BlazorTest.Shared.SurveyPrompt",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorTest.BethanysPieShopApp.Shared.SurveyPrompt"
+            "TagName": "BlazorTest.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
@@ -89,47 +122,14 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorTest.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1080667042,
+        "HashCode": -1029483099,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.NavMenu",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -856124467,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.NavMenu",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorTest.BethanysPieShopApp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1685866610,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.MainLayout",
+        "Name": "BlazorTest.Shared.MainLayout",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -151,18 +151,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.MainLayout"
+          "Common.TypeName": "BlazorTest.Shared.MainLayout"
         }
       },
       {
-        "HashCode": 248926504,
+        "HashCode": 2038672024,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.MainLayout",
+        "Name": "BlazorTest.Shared.MainLayout",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorTest.BethanysPieShopApp.Shared.MainLayout"
+            "TagName": "BlazorTest.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -179,14 +179,14 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.MainLayout",
+          "Common.TypeName": "BlazorTest.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1827905641,
+        "HashCode": 544956821,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.MainLayout.Body",
+        "Name": "BlazorTest.Shared.MainLayout.Body",
         "AssemblyName": "BlazorTest",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
@@ -198,60 +198,60 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorTest.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": -228103008,
+        "HashCode": -1662623050,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorTest.BethanysPieShopApp.Shared.MainLayout.Body",
+        "Name": "BlazorTest.Shared.MainLayout.Body",
         "AssemblyName": "BlazorTest",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "BlazorTest.BethanysPieShopApp.Shared.MainLayout"
+            "ParentTag": "BlazorTest.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Shared.MainLayout.Body",
+          "Common.TypeName": "BlazorTest.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1749534869,
+        "HashCode": 1851156142,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Pages.Index",
+        "Name": "BlazorTest.Shared.NavMenu",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Pages.Index"
+          "Common.TypeName": "BlazorTest.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 238753255,
+        "HashCode": 2025908048,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.BethanysPieShopApp.Pages.Index",
+        "Name": "BlazorTest.Shared.NavMenu",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorTest.BethanysPieShopApp.Pages.Index"
+            "TagName": "BlazorTest.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.BethanysPieShopApp.Pages.Index",
+          "Common.TypeName": "BlazorTest.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -12944,32 +12944,32 @@
   "Documents": [
     {
       "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "BethanysPieShopApp\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\Shared\\NavMenu.razor",
-      "TargetPath": "BethanysPieShopApp\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\Shared\\MainLayout.razor",
-      "TargetPath": "BethanysPieShopApp\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\_Imports.razor",
-      "TargetPath": "BethanysPieShopApp\\_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\App.razor",
+      "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
       "FilePath": "c:\\Users\\samum\\GitubRepository\\BlazorTest\\BethanysPieShopApp\\Pages\\Index.razor",
-      "TargetPath": "BethanysPieShopApp\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     }
   ],
