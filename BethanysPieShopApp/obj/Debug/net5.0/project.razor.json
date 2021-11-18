@@ -8,72 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1775236573,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.App",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.App"
-        }
-      },
-      {
-        "HashCode": -2138826991,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.App",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorTest.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1776040928,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.Pages.Index",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1868748747,
-        "Kind": "Components.Component",
-        "Name": "BlazorTest.Pages.Index",
-        "AssemblyName": "BlazorTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorTest.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 361704993,
         "Kind": "Components.Component",
         "Name": "BlazorTest.Shared.SurveyPrompt",
@@ -123,6 +57,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorTest.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1851156142,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Shared.NavMenu",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 2025908048,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Shared.NavMenu",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorTest.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -223,35 +190,68 @@
         }
       },
       {
-        "HashCode": 1851156142,
+        "HashCode": 1775236573,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.Shared.NavMenu",
+        "Name": "BlazorTest.App",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.Shared.NavMenu"
+          "Common.TypeName": "BlazorTest.App"
         }
       },
       {
-        "HashCode": 2025908048,
+        "HashCode": -2138826991,
         "Kind": "Components.Component",
-        "Name": "BlazorTest.Shared.NavMenu",
+        "Name": "BlazorTest.App",
         "AssemblyName": "BlazorTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorTest.Shared.NavMenu"
+            "TagName": "BlazorTest.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTest.Shared.NavMenu",
+          "Common.TypeName": "BlazorTest.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1776040928,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Pages.Index",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1868748747,
+        "Kind": "Components.Component",
+        "Name": "BlazorTest.Pages.Index",
+        "AssemblyName": "BlazorTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorTest.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTest.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
