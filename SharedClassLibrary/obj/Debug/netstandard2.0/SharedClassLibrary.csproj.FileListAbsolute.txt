@@ -1,0 +1,10 @@
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\bin\Debug\netstandard2.0\SharedClassLibrary.deps.json
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\bin\Debug\netstandard2.0\SharedClassLibrary.dll
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\bin\Debug\netstandard2.0\SharedClassLibrary.pdb
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.csproj.AssemblyReference.cache
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.AssemblyInfoInputs.cache
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.AssemblyInfo.cs
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.dll
+C:\Users\sapmille\Repos\BlazorTest\SharedClassLibrary\obj\Debug\netstandard2.0\SharedClassLibrary.pdb

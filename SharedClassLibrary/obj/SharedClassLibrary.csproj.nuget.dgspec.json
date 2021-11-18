@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj": {}
+    "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj": {
+    "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj",
         "projectName": "SharedClassLibrary",
-        "projectPath": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\samum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\SharedClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\sapmille\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sapmille\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

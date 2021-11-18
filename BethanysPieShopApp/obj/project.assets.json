@@ -305,6 +305,16 @@
         "runtime": {
           "lib/net5.0/System.Net.Http.Json.dll": {}
         }
+      },
+      "SharedClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SharedClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedClassLibrary.dll": {}
+        }
       }
     },
     "net5.0/browser-wasm": {
@@ -610,6 +620,16 @@
         },
         "runtime": {
           "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
+      "SharedClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SharedClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedClassLibrary.dll": {}
         }
       }
     }
@@ -1135,47 +1155,50 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SharedClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SharedClassLibrary/SharedClassLibrary.csproj",
+      "msbuildProject": "../SharedClassLibrary/SharedClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.6",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.6",
+      "SharedClassLibrary >= 1.0.0",
       "System.Net.Http.Json >= 5.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samum\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sapmille\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\BlazorTest.csproj",
+      "projectUniqueName": "C:\\Users\\sapmille\\Repos\\BlazorTest\\BethanysPieShopApp\\BlazorTest.csproj",
       "projectName": "BlazorTest",
-      "projectPath": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\BlazorTest.csproj",
-      "packagesPath": "C:\\Users\\samum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samum\\GitubRepository\\BlazorTest\\obj\\",
+      "projectPath": "C:\\Users\\sapmille\\Repos\\BlazorTest\\BethanysPieShopApp\\BlazorTest.csproj",
+      "packagesPath": "C:\\Users\\sapmille\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sapmille\\Repos\\BlazorTest\\BethanysPieShopApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\samum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sapmille\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\sapmille\\Repos\\BlazorTest\\SharedClassLibrary\\SharedClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1215,7 +1238,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-            "version": "[5.0.6, 5.0.6]"
+            "version": "[5.0.12, 5.0.12]"
           }
         ],
         "frameworkReferences": {
@@ -1223,7 +1246,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
